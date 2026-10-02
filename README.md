@@ -10,7 +10,3 @@ The curriculum is structured around three core subject areas:
 ### Target Audience
 
 The course is ideal for beginners, IT professionals starting out in the cloud, or business stakeholders who need a basic conceptual grasp of Microsoft Azure before pursuing role-based paths like Azure Administrator, Developer, or Solutions Architect.
-
----
-
-Would you like help breaking down any specific module or topic shown in your uploaded pictures?
